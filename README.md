@@ -1,8 +1,9 @@
 # Project-ideas
 
+### Download Pdf 
 [Project Ideas For Soroban .pdf](https://github.com/hprasadsakhare/Project-ideas/files/15283978/Project.Ideas.For.Soroban.pdf)
 
-## Images
+## Ideas 
 
 <img width="1440" alt="Screenshot 2024-05-12 at 12 06 30 AM" src="https://github.com/hprasadsakhare/Project-ideas/assets/119033333/6ae10d9a-89b6-4c5c-8b89-df8be9f3894b">
 <img width="1440" alt="Screenshot 2024-05-12 at 12 06 40 AM" src="https://github.com/hprasadsakhare/Project-ideas/assets/119033333/8386820f-84fc-47c8-815f-8796b2fdc597">
